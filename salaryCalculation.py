@@ -1,10 +1,3 @@
-"""
-Pyhton For Web applications ITEC320
-Lab Work-1
-Name : Fahri Han Pınar
-Std Number:19000134
-"""
-
 name = input(str("What is your name please enter it."))
 greetings = (f"Welcome {name}")
 work_exp=input(str("How many years work experience year you have ?"))
